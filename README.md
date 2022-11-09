@@ -1,7 +1,7 @@
 <h1 align="center">Hey this is Nitheezkant</h1>
 <h3 align="center">Backend developer exploring other stuff too!</h3>
 
-- 🔭 I’m currently working on **Patient Fall Prediction using computer-vision**
+- 🔭 I’m currently working on **Patient Fall Prediction using computer-vision** and **Safe Directional Evacuation System**
 
 - 🌱 I’m currently learning **OpenCv**
 
