@@ -1,6 +1,7 @@
 <h1 align="center">Nitheezkant R</h1>
 <h3 align="center">Backend developer exploring other stuff too!</h3>
 <h3 align="center">2end year, Electronics and Communications Engineering</h3>
+<hr>
 
 - 🔭 I’m currently working on **Patient Fall Prediction using computer-vision** and **Safe Directional Evacuation System**
 
