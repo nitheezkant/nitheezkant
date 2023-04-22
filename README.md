@@ -3,7 +3,7 @@
 <h3 align="center">2end year, Electronics and Communications Engineering</h3>
 <hr>
 
-- 🔭 I’m currently working on **Patient Fall Prediction using computer-vision** and **Safe Directional Evacuation System**
+- 🔭 I’m currently working on **Low cost options for Velocity Based Training** and **Ambulance notification system using LoRa**
 
 - 🌱 I’m currently learning **OpenCv**
 
