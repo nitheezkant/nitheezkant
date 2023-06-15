@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitheezkant](https://github.com/nitheezkant)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **RPi, Django**
 
 - 📫 How to reach me **Nitheezkant.R@iiitb.ac.in**
 <hr>
