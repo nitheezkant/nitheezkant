@@ -1,6 +1,6 @@
 <h1 align="center">Nitheezkant R</h1>
 <h3 align="center">Embedded Systems Enthusiast</h3>
-<h3 align="center">2end year, Electronics and Communications Engineering</h3>
+<h3 align="center">3rd year, Electronics and Communications Engineering</h3>
 <hr>
 
 - 🔭 I’m currently working on **Low cost options for Velocity Based Training** and **Ambulance notification system using LoRa**
