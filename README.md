@@ -16,15 +16,15 @@
 
 - Chorzilla - (First prize, Sony Yuru Music Instrument Hackathon, by Sony Semiconductors and Entertainment Japan)
 <a href="https://youtu.be/qIWWmR8tcU0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nitheezkant" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCAGpbySsOFNQ_NDxYUT3CPA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nitheezkant" height="30" width="40" /></a>
+<a href="https://github.com/nitheezkant/Chordzilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nitheezkant" height="30" width="40" /></a>
 
 - SSCAW - Security System for Cardiac Arrest (and other emergencies) in Washroom
 <a href="https://youtu.be/c3e4a_MYbZ8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nitheezkant" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCAGpbySsOFNQ_NDxYUT3CPA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nitheezkant" height="30" width="40" /></a>
+<a href="https://github.com/nitheezkant/SSCAW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nitheezkant" height="30" width="40" /></a>
 
 - SDES - Safe Directional Exit System 
 <a href="https://youtu.be/iwpVySAyHE4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nitheezkant" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCAGpbySsOFNQ_NDxYUT3CPA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nitheezkant" height="30" width="40" /></a>
+<a href="https://github.com/nitheezkant/SDES_Unit_Testing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nitheezkant" height="30" width="40" /></a>
 - Analysis of PSOLA (Pitch Synchronous Overlap and Add) based voice gender changer.
 <a href="https://github.com/nitheezkant/Voice_Gender_Changer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nitheezkant" height="30" width="40" /></a>
 - Topological Reeb Graph generator
