@@ -8,7 +8,10 @@
 
 - Programmable Synthetic Guitar with Single touch chords. (Submitted to IEEE GEM 2023, Barbados Conference, currently under peer review)
 
-- Brain Stroke Rehabilitation System for STS movement (Ongoing, funded by IIITB). 
+- Brain Stroke Rehabilitation System for STS movement (Ongoing, funded by IIITB).
+
+- Drug Efficacy Prediction using Machine learning (Flipkart Health+)
+<a href="https://github.com/nitheezkant/Drug_Quality_Control" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nitheezkant" height="30" width="40" /></a>
 
 <hr>
 <h3 align="center">Project Works</h3>
@@ -25,6 +28,7 @@
 - SDES - Safe Directional Exit System 
 <a href="https://youtu.be/iwpVySAyHE4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nitheezkant" height="30" width="40" /></a>
 <a href="https://github.com/nitheezkant/SDES_Unit_Testing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nitheezkant" height="30" width="40" /></a>
+
 - Analysis of PSOLA (Pitch Synchronous Overlap and Add) based voice gender changer.
 <a href="https://github.com/nitheezkant/Voice_Gender_Changer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nitheezkant" height="30" width="40" /></a>
 - Topological Reeb Graph generator
